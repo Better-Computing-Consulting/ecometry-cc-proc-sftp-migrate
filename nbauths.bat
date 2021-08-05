@@ -4,9 +4,9 @@
     SET SPOOLOUT=E:\ECOMETRY\ECOMVER\SPOOLOUT\
     SET TEMP=E:\ECOMETRY\ECOMVER\temp\
     SET REMOTEDIR=/MSOD-To-FDC
-    SET sftpUID=MSOD-000851
-    SET sftpPW=0221cat
-    SET sftpHost=76.89.129.185
+    SET sftpUID=ssss
+    SET sftpPW=sssssss
+    SET sftpHost=3.3.3.3
     SET LOCALFILE=%PUB%nbauthot
     
 REM * The nbauths.txt and .err files are used if the nbauths file isn't found:
