@@ -4,9 +4,9 @@
     SET SPOOLOUT=E:\ECOMETRY\ECOMVER\SPOOLOUT\
     SET TEMP=E:\ECOMETRY\ECOMVER\TEMP\
     SET sftpFILE=AUDXMPPB
-    SET sftpUID=MSOD-000851
-    SET sftpPW=0221cat
-    SET sftpHost=76.89.129.185
+    SET sftpUID=ssss
+    SET sftpPW=ssssss
+    SET sftpHost=3.3.3.3
     SET LOCALFILE=%PUB%nbauthin
 
 REM * nbauthr.chk is used by the calling stream to determine SUCCESS or FAILURE:
