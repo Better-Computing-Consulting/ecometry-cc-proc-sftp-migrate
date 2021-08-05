@@ -5,9 +5,9 @@
     SET SPOOLOUT=E:\ECOMETRY\ECOMVER\SPOOLOUT\
     SET TEMP=E:\ECOMETRY\ECOMVER\temp\
     SET REMOTEDIR=/MSOD-To-FDC
-    SET sftpUID=MSOD-000851
-    SET sftpPW=0221cat
-    SET sftpHost=76.89.129.185
+    SET sftpUID=ssss
+    SET sftpPW=ssssss
+    SET sftpHost=3.3.3.3
     SET LOCALFILE=%PUB%NBDEPOS2
 
 REM * nbbills.chk is used by the calling stream to determine SUCCESS or FAILURE:
